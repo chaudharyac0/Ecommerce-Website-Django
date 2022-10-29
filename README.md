@@ -1,0 +1,2 @@
+# Ecommerce-Website-Django
+Fully functional web application created using Django Framework where user provides with a list of the various products available for purchase in the store. For the convenience of online shopping, a shopping cart is provided to the user. After the selection of the goods, it is sent for the order confirmation process and order is placed using payment gateway and then confirmation mail sent to the user.
