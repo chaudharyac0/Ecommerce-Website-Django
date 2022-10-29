@@ -1,4 +1,4 @@
-asgiref==3.54.2
+asgiref==3.5.2
 certifi==2022.6.15
 charset-normalizer==2.1.0
 Django==4.0.5
